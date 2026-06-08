@@ -1,8 +1,13 @@
 #nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.14.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.14.0
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 percona/olm@sha256:13e8f4e919e753faa7da35a9064822381098bcd44acc284877bf0964ceecbfd5
 quay.io/operator-framework/opm:latest
 docker.io/percona/percona-postgresql-operator:2.9.0-community-bundle
+victoriametrics/operator:v0.54.1
+ghcr.io/openeverest/openeverest-operator:1.15.2
+ghcr.io/openeverest/openeverest:1.15.2
+percona/everest-helmtools:0.0.1
+
