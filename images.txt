@@ -10,4 +10,5 @@ victoriametrics/operator:v0.54.1
 ghcr.io/openeverest/openeverest-operator:1.15.2
 ghcr.io/openeverest/openeverest:1.15.2
 percona/everest-helmtools:0.0.1
+ghcr.io/openeverest/openeverest-catalog:1.15.2
 
