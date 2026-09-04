@@ -13,3 +13,4 @@
 # ghcr.io/openeverest/openeverest-catalog:1.15.2
 # docker.io/percona/percona-xtradb-cluster-operator:1.19.0-community-bundle
 docker.io/library/node:20  
+docker.io/library/node:22
